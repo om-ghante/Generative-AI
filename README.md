@@ -18,7 +18,7 @@
 
 ## Getting Started
 
-To get started with Genrative AI locally, follow these steps:
+To get started with Generative AI locally, follow these steps:
 
 ### Prerequisites
 
@@ -30,13 +30,13 @@ To get started with Genrative AI locally, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/om-ghante/Genrative-AI.git
+   git clone https://github.com/om-ghante/Generative-AI.git
    ```
 
 2. **Change the work derectory**
 
    ```bash
-   cd trip-genius
+   cd Generative-AI
    ```
 
 3. **Frontend setup**
@@ -58,6 +58,7 @@ To get started with Genrative AI locally, follow these steps:
    ```bash
    VITE_SERVER_API=http://localhost:6173
    ```
+   
 4. **Configure Environment Variables for backend**
 
    ```bash
