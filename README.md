@@ -97,8 +97,6 @@ Open your web browser and navigate to `http://localhost:${PORT}` to view the Gen
 ## Contact
  For any questions or feedback, please contact me at omghante.work@gmail.com
 
-
-
 <div align="right">
    <img src="./z-other/logo.png" width="128" align="right" />
 </div
