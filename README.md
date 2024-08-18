@@ -53,13 +53,13 @@ To get started with Generative AI locally, follow these steps:
    npm install
    ```
 
-4. **Configure Environment Variables for fronted**
+5. **Configure Environment Variables for fronted**
 
    ```bash
    VITE_SERVER_API=http://localhost:6173
    ```
    
-4. **Configure Environment Variables for backend**
+6. **Configure Environment Variables for backend**
 
    ```bash
    ORIGIN_API=http://localhost:5173
@@ -67,14 +67,14 @@ To get started with Generative AI locally, follow these steps:
    SERVER_PORT=6173
    ```
 
-3. **Start the Development Servers**
+7. **Start the Development Servers**
 
    ```bash
    cd client
    npm run dev
    ```
 
-4. **Start the Development Servers**
+8. **Start the Development Servers**
 
    ```bash
    cd ../server
